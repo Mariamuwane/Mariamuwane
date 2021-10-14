@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mariamuwane
-- 👀 I’m interested in Data Science and Backend.
+- 👀 I’m interested in Data Science and Frontend Development.
 - 🌱 I’m still learning both.
 - 💞️ I’m available for any internship opportunities, any help will be appreciated.
 - 📫 How to reach me mariamharuna.u@outlook.com.
